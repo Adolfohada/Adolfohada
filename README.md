@@ -1,4 +1,3 @@
-# 💫 About Me:
 Estágio em Segurança da Informação, 20y | IAM | SQL | JAVA 
 
 
