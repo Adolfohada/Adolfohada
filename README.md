@@ -1,9 +1,13 @@
-### Olá pessoal sejam bem vindos ao meu perfil 👋
+### Olá pessoal sejam bem vindos ao meu perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/>
+
 Meu nome é Adolfo, atualmente estou cursando Engenharia de Software e estou estagiando segurança da informação<br>
 - 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)
 - 📚 Engenharia de Software - FIAP (2024 - 2027)
 - 💼 Estágio IAM na A2f (Agosto/2023 - maio/2024)
 - 💼 Estágio segurança da informação na SEC4U Cyber Identity (maio/2024 - atual)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adolfo;I'm+20+years+old;I'm+from+Brazil;I+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
