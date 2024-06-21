@@ -1,5 +1,9 @@
-# 💫 About Me:
+### Olá pessoal sejam bem vindos ao meu perfil 👋
 Meu nome é Adolfo, atualmente estou cursando Engenharia de Software e estou estagiando segurança da informação<br>
+- 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)
+- 📚 Engenharia de Software - FIAP (2024 - 2027)
+- 💼 Estágio IAM na A2f (Agosto/2023 - maio/2024)
+- 💼 Estágio segurança da informação na SEC4U Cyber Identity (maio/2024 - atual)
 
 
 
