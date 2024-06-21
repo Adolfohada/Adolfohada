@@ -1,15 +1,13 @@
-### Olá pessoal sejam bem vindos ao meu perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/><img align="right" alt="coding" width="220" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+### Olá pessoal sejam bem vindos ao meu perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/><img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" min-width="380px" max-width="380px" width="220px" align="right" alt="Computador iuriCode">
 
 - 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)
 - 📚 Engenharia de Software - FIAP (2024 - 2027) 
 - 💼 Estágio IAM na A2f (Agosto/2023 - maio/2024)
 - 💼 Estágio segurança da informação na SEC4U Cyber Identity (maio/2024 - atual)
 
+  
+<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adolfo;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adolfo;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 
 
 # 💻 Tech Stack:
