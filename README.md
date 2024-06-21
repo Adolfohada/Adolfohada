@@ -1,7 +1,6 @@
-### Olá pessoal sejam bem vindos ao meu perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/>
+### Olá pessoal sejam bem vindos ao meu perfil <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"/><img align="right" alt="coding" width="220" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
-Meu nome é Adolfo, atualmente estou cursando Engenharia de Software e estou estagiando segurança da informação<br>
-- 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+- 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)
 - 📚 Engenharia de Software - FIAP (2024 - 2027) 
 - 💼 Estágio IAM na A2f (Agosto/2023 - maio/2024)
 - 💼 Estágio segurança da informação na SEC4U Cyber Identity (maio/2024 - atual)
