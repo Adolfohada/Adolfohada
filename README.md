@@ -3,7 +3,8 @@
 - 📚 Análise e Desenvolvimento de Sistemas - FIAP (2022 - 2023)
 - 📚 Engenharia de Software - FIAP (2024 - 2027) 
 - 💼 Estágio segurança da informação IAM na A2F (Agosto/2023 - maio/2024)
-- 💼 Estágio segurança da informação na SEC4U Cyber Identity (maio/2024 - atual)
+- 💼 Estágio segurança da informação na SEC4U Cyber Identity (maio/2024 - junho/2025)
+- 💼 Analista segurança da informação (Agosto/2025 - Atualmente)
 
   
 <br><br>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Adolfo;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
